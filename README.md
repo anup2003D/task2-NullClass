@@ -17,9 +17,10 @@ Simple Animal Detection and Classification using Machine Learning
 7. Open the [Model Jupyter Notebook](https://github.com/anup2003D/task2-NullClass/blob/main/Traffic_Detector.ipynb)
 8. Run this notebook
 9. Run the [gui2.py](https://github.com/anup2003D/task2-NullClass/blob/main/gui2.py) file
-10. Upload the image you want to detect
-11. CLick on detect button
-12. View results
+10. For testing, use this [dataset](https://www.kaggle.com/datasets/sshikamaru/car-object-detection)
+11. Upload the image you want to detect
+12. CLick on detect button
+13. View results
 
 ## Sample Output:
 ### Sample Output 1:
